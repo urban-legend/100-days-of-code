@@ -1,11 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 1: December 29, 2017
+### Day 0: December 28, 2017
 **Today's Progress**: 
 
 **Thoughts:** Starting out with exercises in FreeCodeCamp
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** HTML5 and CSS challenges 1-28
+
+### Day 1: December 29, 2017
+**Today's Progress**: 
+
+**Thoughts:** Continuing the exercises in FreeCodeCamp
+
+**Link to work:** HTML5 and CSS challenges 29-
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)

@@ -10,7 +10,7 @@
 ### Day 1: January 5, 2018
 **Today's Progress**: 
 
-**Thoughts:** Completed HTML & CSS challenges. Starting with Responsive Design with Bootstrap
+**Thoughts:** Completed HTML & CSS challenges. Starting with Responsive Design with Bootstrap.
 Need to work more on [Bootstrap Grid](https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side)
 
 **Link to work:** HTML5 and CSS challenges 36-60. Bootstrap 61

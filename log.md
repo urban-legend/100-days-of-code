@@ -10,9 +10,9 @@
 ### Day 1: January 5, 2018
 **Today's Progress**: 
 
-**Thoughts:** Continuing the exercises in FreeCodeCamp
+**Thoughts:** Completed HTML & CSS challenges. Starting with Responsive Design with Bootstrap
 
-**Link to work:** HTML5 and CSS challenges 36-
+**Link to work:** HTML5 and CSS challenges 36-60. Bootstrap 61
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)

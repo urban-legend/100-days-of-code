@@ -8,8 +8,8 @@
 **Link to work:** NA
 
 ### Day 1: January 5, 2018
-**Today's Progress**: Completed HTML & CSS challenges. Started and completed Responsive Design with Bootstrap. Starting jQuery...
-</br>HTML5 and CSS challenges 36-60. Bootstrap 61-92. jQuery
+**Today's Progress**: Completed HTML & CSS challenges. Started and completed Responsive Design with Bootstrap & jQuery
+</br>HTML5 and CSS challenges 36-60. Bootstrap 61-92. jQuery 93-110
 
 **Thoughts:** Need to work more on [Bootstrap Grid](https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side)
 

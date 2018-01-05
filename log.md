@@ -1,18 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 28, 2017
+### Day 0: December 28, 2017 - January 4, 2018
 **Today's Progress**: 
 
 **Thoughts:** Starting out with exercises in FreeCodeCamp
 
-**Link to work:** HTML5 and CSS challenges 1-28
+**Link to work:** HTML5 and CSS challenges 1-35
 
-### Day 1: December 29, 2017
+### Day 1: January 5, 2018
 **Today's Progress**: 
 
 **Thoughts:** Continuing the exercises in FreeCodeCamp
 
-**Link to work:** HTML5 and CSS challenges 29-
+**Link to work:** HTML5 and CSS challenges 36-
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)

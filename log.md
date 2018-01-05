@@ -1,19 +1,19 @@
 # 100 Days Of Code - Log
 
 ### Day 0: December 28, 2017 - January 4, 2018
-**Today's Progress**: 
+**Today's Progress**: HTML5 and CSS challenges 1-35
 
 **Thoughts:** Starting out with exercises in FreeCodeCamp
 
-**Link to work:** HTML5 and CSS challenges 1-35
+**Link to work:** NA
 
 ### Day 1: January 5, 2018
-**Today's Progress**: 
+**Today's Progress**: Completed HTML & CSS challenges. Started and completed Responsive Design with Bootstrap. Starting jQuery...
+</br>HTML5 and CSS challenges 36-60. Bootstrap 61-92. jQuery
 
-**Thoughts:** Completed HTML & CSS challenges. Starting with Responsive Design with Bootstrap.
-Need to work more on [Bootstrap Grid](https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side)
+**Thoughts:** Need to work more on [Bootstrap Grid](https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side)
 
-**Link to work:** HTML5 and CSS challenges 36-60. Bootstrap 61
+**Link to work:** 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
